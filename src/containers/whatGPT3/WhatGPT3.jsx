@@ -1,5 +1,5 @@
 import React from 'react';
-import Feature from '../../components/features/Features';
+import Feature from '../../components/feature/Feature'; // warning here 'S'
 import './whatGPT3.css';
 
 const WhatGPT3 = () => (
