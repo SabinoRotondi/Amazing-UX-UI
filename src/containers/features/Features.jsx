@@ -1,10 +1,8 @@
 import React from 'react'
-import './feature.css'
+import './features.css'
 const Feature = () => {
   return (
-    <div>
-        Feature
-        </div>
+    <div>Feature</div>
   )
 }
 

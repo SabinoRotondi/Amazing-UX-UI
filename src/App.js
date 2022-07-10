@@ -1,12 +1,12 @@
 import React from 'react'
-import { Article, Brand, Cta } from './components'
+
+import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
+import {Cta, Brand, Navbar} from './components';
 
 const App = () => {
     return (
         <div>
-            <Article />
-            <Brand />
-            <Cta />
+
             <h1>GPT-3</h1>
         </div>
     )
