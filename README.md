@@ -1,5 +1,5 @@
 #Authors: 
 
 *Luigi "PAINZORkN" De Blasio* 📋
-Marco "Monkey" Moncada 📋
-Sabino "unknown" Rotondi 📋
+*Marco "Monkey" Moncada* 📋
+*Sabino "unknown" Rotondi* 📋
