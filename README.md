@@ -1,4 +1,4 @@
-Authors: 
+#Authors: 
 
 Luigi "PAINZORkN" De Blasio 📋
 Marco "Monkey" Moncada 📋
