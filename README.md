@@ -1,1 +1,5 @@
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+Authors: 
+
+Luigi "PAINZORkN" De Blasio 📋
+Marco "Monkey" Moncada 📋
+Sabino "unknown" Rotondi 📋
