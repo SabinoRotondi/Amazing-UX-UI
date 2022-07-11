@@ -5,4 +5,3 @@
 * *Marco "[Monkey](https://github.com/MarkupMonkey)" Moncada* 📋 <br>
 * *Sabino "[SABINHO](https://github.com/SabinoRotondi)" Rotondi* 📋 <br>
 
-(https://postimg.cc/PNZZSw40)
