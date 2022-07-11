@@ -11,11 +11,6 @@ const Header = () => (
             </h1>
             <p>
                 Kickstart your business with Amazing UX-UI. Crafted with passion from people for people!
-<br></br>
-<br></br>
-<br></br>
-                *Thanks to  <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScript Mastery</a> 
-
             </p>
 
             <div className="gpt3__header-content__input">

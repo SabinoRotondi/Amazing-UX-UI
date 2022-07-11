@@ -16,8 +16,9 @@ const Footer = () => (
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
         <br></br>
-        <p className="gpt3__footer-links_div">Luigi De Blasio - Marco Moncada - Sabino Rotondi</p>
-        <p> All Rights Reserved and thanks to <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScript Mastery</a></p>
+        <p className="gpt3__footer-links_div__credits">Luigi De Blasio - Marco Moncada - Sabino Rotondi</p>
+        <br></br>
+        <p className="gpt3__footer-links_div"> All Rights Reserved and thanks to <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScript Mastery</a></p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
