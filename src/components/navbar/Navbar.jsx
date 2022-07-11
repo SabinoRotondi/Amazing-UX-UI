@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./navbar.css";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/logo.png";
 
 // BEM notation --> Block Element Modifier
 const Menu = () => (
@@ -10,10 +10,10 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#whatGPT3">What is GPT3</a>
+      <a href="#whatGPT3">What is Amazing UX-UI</a>
     </p>
     <p>
-      <a href="#possibility">Open AI</a>
+      <a href="#possibility">Open UX-UI</a>
     </p>
     <p>
       <a href="#features">Case Studies</a>

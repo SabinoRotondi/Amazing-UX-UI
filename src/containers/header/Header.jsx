@@ -7,12 +7,15 @@ const Header = () => (
     <div className="gpt3__header section__padding" id="home">
         <div className="gpt3__header-content">
             <h1 className="gradient__text">
-                Let's Build Something amazing with GPT-3 OpenAI
+                Let's Build Something amazing with Amazing UX-UI
             </h1>
             <p>
-                Yet bed any for travelling assistance indulgence unpleasing. Not
-                thoughts all exercise blessing. Indulgence way everything joy alteration
-                boisterous the attachment. Party we years to order allow asked of.
+                Kickstart your business with Amazing UX-UI. Crafted with passion from people for people!
+<br></br>
+<br></br>
+<br></br>
+                *Thanks to  <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScript Mastery</a> 
+
             </p>
 
             <div className="gpt3__header-content__input">
@@ -22,7 +25,7 @@ const Header = () => (
 
             <div className="gpt3__header-content__people">
                 <img src={people} alt="people" />
-                <p>1,600 people requested access a visit in last 24 hours</p>
+                <p>1,600+ people recommend Amazing UX-UI </p>
             </div>
 
         </div>

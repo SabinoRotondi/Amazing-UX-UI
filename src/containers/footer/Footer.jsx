@@ -1,5 +1,5 @@
 import React from 'react';
-import gpt3Logo from '../../assets/logo.svg';
+import gpt3Logo from '../../assets/logo.png';
 import './footer.css';
 
 const Footer = () => (
@@ -15,7 +15,7 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
+        <p>Luigi De Blasio - Marco Moncada - Sabino Rotondi <br /> All Rights Reserved and thanks to <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScript Mastery</a></p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 GPT-3. All rights reserved.</p>
+      <p>Amazing UX-UI. All rights reserved.</p>
     </div>
   </div>
 );
